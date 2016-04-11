@@ -1,6 +1,7 @@
 # TeamVirus Web Application
 
-![alt tag](https://raw.githubusercontent.com/doomcat9167/TeamVirusWebApp/assets/logos/VirusRender.png)
+![Alt text](/assets/logos/VirusRender.png?raw=true "Optional Title")
+
 
 Major League Hacking 2016 | QuackHack | Third Place
 
