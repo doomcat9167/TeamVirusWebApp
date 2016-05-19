@@ -6,7 +6,7 @@
 Major League Hacking 2016 | QuackHack | Third Place
 
 
-![Alt text](/assets/logos/webapp.png?raw=true "Optional Title")
+![Alt text](/assets/logos/webApp.png?raw=true "Optional Title")
 Web application for the board-game Virus:
 
         1. Roll dices of 2, 3 and 4.
